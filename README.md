@@ -19,4 +19,4 @@ Total code time since Feb 23, 2023:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomomiji&layout=compact)](https://github.com/hellomomiji/)
 
-![hellomomiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomomiji&count_private=true&include_all_commits=true&show_icons=truetheme=dark&card_width=300)
+![hellomomiji's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellomomiji&count_private=true&include_all_commits=true&show_icons=true&theme=dark)
