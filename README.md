@@ -1,4 +1,4 @@
-Total code time since Feb 23, 2023:   
+Total code time:   
 [![wakatime](https://wakatime.com/badge/user/fe3100d3-eff0-4598-b4f1-71b25c1432db.svg)](https://wakatime.com/@fe3100d3-eff0-4598-b4f1-71b25c1432db)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellomomiji&layout=compact&theme=dark)](https://github.com/hellomomiji/)
